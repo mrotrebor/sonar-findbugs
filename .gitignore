@@ -1,6 +1,6 @@
 # ---- Maven
 target/
-
+!target/sonar-findbugs-plugin-4.0.2.jar
 # ---- SonarQube
 .sonar
 
